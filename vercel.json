@@ -5,11 +5,21 @@
       "handle": "filesystem"
     },
     {
-      "src": "/personal(?:/.*)?$",
+      "src": "^/personal$",
+      "status": 308,
+      "headers": { "Location": "/personal/" }
+    },
+    {
+      "src": "^/trabajo$",
+      "status": 308,
+      "headers": { "Location": "/trabajo/" }
+    },
+    {
+      "src": "^/personal(?:/.*)?$",
       "dest": "/personal/index.html"
     },
     {
-      "src": "/trabajo(?:/.*)?$",
+      "src": "^/trabajo(?:/.*)?$",
       "dest": "/trabajo/index.html"
     },
     {
