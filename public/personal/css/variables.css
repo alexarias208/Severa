@@ -1,0 +1,325 @@
+/* ============================================
+   VARIABLES - Custom Properties & Design Tokens
+   (Dark-first, inspired by reference dashboards)
+   ============================================ */
+
+:root {
+    /* --- Proporción áurea y medidas compartidas (Persona + Trabajo) --- */
+    --phi: 1.618;
+    --space-unit: 8px;
+    --sidebar-width-base: 261px;
+    --header-height-base: 52px;
+    --btn-padding-y: calc(var(--space-unit) * 0.75);
+    --btn-padding-x: calc(var(--space-unit) * 2);
+    --btn-sm-padding-y: calc(var(--space-unit) * 0.5);
+    --btn-sm-padding-x: calc(var(--space-unit) * 1.25);
+    --radius-btn: calc(var(--space-unit) * 1);
+    --radius-card: calc(var(--space-unit) * 1.75);
+
+    /* --- Colors (Dark as default) --- */
+    --bg-body: #0f0f14;
+    --bg-main: #13131a;
+    --bg-card: rgba(30, 30, 42, 0.85);
+    --bg-sidebar: rgba(20, 20, 30, 0.95);
+    --bg-header: rgba(15, 15, 20, 0.92);
+
+    /* Glass */
+    --glass-bg: rgba(30, 30, 42, 0.65);
+    --glass-bg-strong: rgba(30, 30, 42, 0.90);
+    --glass-blur: blur(16px);
+    --glass-border: 1px solid rgba(255, 255, 255, 0.08);
+    --glass-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, #7c6aef 0%, #a855f7 100%);
+    --gradient-success: linear-gradient(135deg, #22c55e 0%, #34d399 100%);
+    --gradient-danger: linear-gradient(135deg, #ec4899 0%, #f43f5e 100%);
+    --gradient-warning: linear-gradient(135deg, #f59e0b 0%, #fb923c 100%);
+    --gradient-info: linear-gradient(135deg, #6366f1 0%, #818cf8 100%);
+    --gradient-auth-bg: linear-gradient(135deg, #0f0f14 0%, #1a1a2e 50%, #0f0f14 100%);
+
+    /* Accent */
+    --accent-blue: #818cf8;
+    --accent-purple: #a855f7;
+    --accent-green: #34d399;
+    --accent-teal: #2dd4bf;
+    --accent-pink: #ec4899;
+    --accent-orange: #fb923c;
+    --accent-yellow: #fbbf24;
+
+    /* States */
+    --state-success: #22c55e;
+    --state-success-bg: rgba(34, 197, 94, 0.12);
+    --state-warning: #f59e0b;
+    --state-warning-bg: rgba(245, 158, 11, 0.12);
+    --state-error: #ef4444;
+    --state-error-bg: rgba(239, 68, 68, 0.12);
+    --state-info: #6366f1;
+    --state-info-bg: rgba(99, 102, 241, 0.12);
+
+    /* Text */
+    --text-primary: #e2e8f0;
+    --text-secondary: #94a3b8;
+    --text-muted: #475569;
+    --text-white: #f1f5f9;
+    --text-on-gradient: #ffffff;
+    --text-accent: #818cf8;
+
+    /* Borders */
+    --border-color: rgba(255, 255, 255, 0.08);
+    --border-light: rgba(255, 255, 255, 0.04);
+    --border-radius: 14px;
+    --border-radius-sm: 10px;
+    --border-radius-lg: 18px;
+    --border-radius-xl: 24px;
+    --border-radius-full: 50%;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.25);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
+    --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.4);
+    --shadow-hover: 0 8px 32px rgba(129, 140, 248, 0.15);
+    --shadow-glow: 0 0 20px rgba(129, 140, 248, 0.2);
+
+    /* Typography */
+    --font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+    --font-base: 1rem;
+    --font-sm: 0.875rem;
+    --font-xs: 0.75rem;
+    --font-lg: 1.2rem;
+    --font-xl: 1.5rem;
+    --font-2xl: 1.875rem;
+    --font-3xl: 2.5rem;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --line-height: 1.5;
+
+    /* Spacing */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 14px;
+    --spacing-lg: 20px;
+    --spacing-xl: 28px;
+    --spacing-2xl: 40px;
+
+    /* Layout */
+    --header-height: 52px;
+    --bottom-nav-height: 56px;
+    --sidebar-width: 0px;
+    --content-max-width: 800px;
+
+    /* PR-03 — Breakpoints (referencia única; @media deben usar los mismos px)
+     * narrow 0–639 | medium 640–1023 | wide ≥1024 */
+    --bp-narrow-max: 639px;
+    --bp-medium-min: 640px;
+    --bp-wide-min: 1024px;
+    --touch-target-min: 44px;
+
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.25s ease;
+    --transition-slow: 0.4s ease;
+
+    /* Z-index */
+    --z-sidebar: 100;
+    --z-header: 200;
+    --z-overlay: 300;
+    --z-modal: 400;
+    --z-toast: 500;
+
+    /* Calendar Colors */
+    --cal-urgent: #ef4444;
+    --cal-habit: #22c55e;
+    --cal-finance: #6366f1;
+    --cal-pending: #f59e0b;
+    --cal-completed: #34d399;
+    --cal-cycle: #ec4899;
+    --cal-study: #a855f7;
+    --cal-exercise: #fb923c;
+
+    /* Input backgrounds */
+    --bg-input: rgba(30, 30, 42, 0.8);
+    --bg-input-focus: rgba(40, 40, 55, 0.9);
+
+    /* Tool card colors */
+    --tool-1: #818cf8;
+    --tool-2: #a855f7;
+    --tool-3: #ec4899;
+    --tool-4: #f43f5e;
+    --tool-5: #fb923c;
+    --tool-6: #fbbf24;
+    --tool-7: #34d399;
+    --tool-8: #22d3ee;
+    --tool-9: #6366f1;
+    --tool-10: #8b5cf6;
+    --tool-11: #14b8a6;
+    --tool-12: #f97316;
+
+    /* Module accent colors */
+    --module-calendar: #818cf8;
+    --module-finance: #22c55e;
+    --module-habits: #a855f7;
+    --module-bible: #fbbf24;
+    --module-diary: #fb923c;
+    --module-foda: #6366f1;
+    --module-intimate: #ec4899;
+    --module-exercises: #22d3ee;
+    --module-studies: #8b5cf6;
+    --module-games: #f43f5e;
+    --module-summary: #34d399;
+    --module-cycle: #ec4899;
+}
+
+/* ============================================
+   LIGHT THEME
+   ============================================ */
+[data-theme="light"] {
+    --bg-body: #f1f5f9;
+    --bg-main: #ffffff;
+    --bg-card: rgba(255, 255, 255, 0.9);
+    --bg-sidebar: rgba(255, 255, 255, 0.95);
+    --bg-header: rgba(255, 255, 255, 0.92);
+
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-bg-strong: rgba(255, 255, 255, 0.92);
+    --glass-border: 1px solid rgba(0, 0, 0, 0.08);
+    --glass-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+
+    --gradient-auth-bg: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #6B73E2 100%);
+
+    --accent-blue: #6366f1;
+    --accent-purple: #8b5cf6;
+    --accent-green: #16a34a;
+
+    --state-success: #16a34a;
+    --state-success-bg: rgba(22, 163, 74, 0.1);
+    --state-warning: #d97706;
+    --state-warning-bg: rgba(217, 119, 6, 0.1);
+    --state-error: #dc2626;
+    --state-error-bg: rgba(220, 38, 38, 0.1);
+    --state-info: #4f46e5;
+    --state-info-bg: rgba(79, 70, 229, 0.1);
+
+    --text-primary: #1e293b;
+    --text-secondary: #64748b;
+    --text-muted: #94a3b8;
+    --text-accent: #6366f1;
+
+    --border-color: rgba(0, 0, 0, 0.1);
+    --border-light: rgba(0, 0, 0, 0.05);
+
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.1);
+    --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.12);
+    --shadow-hover: 0 8px 32px rgba(99, 102, 241, 0.15);
+    --shadow-glow: 0 0 20px rgba(99, 102, 241, 0.1);
+
+    --bg-input: #ffffff;
+    --bg-input-focus: #ffffff;
+}
+
+/* ============================================
+   PINK THEME (Rosado claro)
+   ============================================ */
+[data-theme="pink"] {
+    --bg-body: #fdf2f8;
+    --bg-main: #ffffff;
+    --bg-card: rgba(255, 255, 255, 0.9);
+    --bg-sidebar: rgba(255, 255, 255, 0.95);
+    --bg-header: rgba(255, 255, 255, 0.92);
+
+    --glass-bg: rgba(255, 255, 255, 0.7);
+    --glass-bg-strong: rgba(255, 255, 255, 0.92);
+    --glass-border: 1px solid rgba(236, 72, 153, 0.15);
+    --glass-shadow: 0 4px 24px rgba(236, 72, 153, 0.08);
+
+    --gradient-auth-bg: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 50%, #f9a8d4 100%);
+
+    --accent-blue: #ec4899;
+    --accent-purple: #f472b6;
+    --accent-green: #34d399;
+    --accent-pink: #ec4899;
+    --accent-orange: #fb923c;
+
+    --state-success: #10b981;
+    --state-success-bg: rgba(16, 185, 129, 0.1);
+    --state-warning: #f59e0b;
+    --state-warning-bg: rgba(245, 158, 11, 0.1);
+    --state-error: #ef4444;
+    --state-error-bg: rgba(239, 68, 68, 0.1);
+    --state-info: #ec4899;
+    --state-info-bg: rgba(236, 72, 153, 0.1);
+
+    --text-primary: #831843;
+    --text-secondary: #9f1239;
+    --text-muted: #be185d;
+    --text-accent: #ec4899;
+
+    --border-color: rgba(236, 72, 153, 0.2);
+    --border-light: rgba(236, 72, 153, 0.1);
+
+    --shadow-sm: 0 1px 3px rgba(236, 72, 153, 0.1);
+    --shadow-md: 0 4px 16px rgba(236, 72, 153, 0.12);
+    --shadow-lg: 0 8px 32px rgba(236, 72, 153, 0.15);
+    --shadow-xl: 0 16px 48px rgba(236, 72, 153, 0.18);
+    --shadow-hover: 0 8px 32px rgba(236, 72, 153, 0.2);
+    --shadow-glow: 0 0 20px rgba(236, 72, 153, 0.15);
+
+    --bg-input: #ffffff;
+    --bg-input-focus: #fdf2f8;
+}
+
+/* ============================================
+   BLUE MASCULINE THEME (Azul varón)
+   ============================================ */
+[data-theme="blue"] {
+    --bg-body: #0f172a;
+    --bg-main: #1e293b;
+    --bg-card: rgba(30, 41, 59, 0.85);
+    --bg-sidebar: rgba(15, 23, 42, 0.95);
+    --bg-header: rgba(15, 23, 42, 0.92);
+
+    --glass-bg: rgba(30, 41, 59, 0.65);
+    --glass-bg-strong: rgba(30, 41, 59, 0.90);
+    --glass-border: 1px solid rgba(59, 130, 246, 0.2);
+    --glass-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+
+    --gradient-auth-bg: linear-gradient(135deg, #0f172a 0%, #1e3a8a 50%, #0f172a 100%);
+
+    --accent-blue: #3b82f6;
+    --accent-purple: #6366f1;
+    --accent-green: #22c55e;
+    --accent-teal: #06b6d4;
+    --accent-pink: #3b82f6;
+
+    --state-success: #22c55e;
+    --state-success-bg: rgba(34, 197, 94, 0.12);
+    --state-warning: #f59e0b;
+    --state-warning-bg: rgba(245, 158, 11, 0.12);
+    --state-error: #ef4444;
+    --state-error-bg: rgba(239, 68, 68, 0.12);
+    --state-info: #3b82f6;
+    --state-info-bg: rgba(59, 130, 246, 0.12);
+
+    --text-primary: #e2e8f0;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+    --text-accent: #3b82f6;
+
+    --border-color: rgba(59, 130, 246, 0.15);
+    --border-light: rgba(59, 130, 246, 0.08);
+
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.25);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
+    --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.4);
+    --shadow-hover: 0 8px 32px rgba(59, 130, 246, 0.2);
+    --shadow-glow: 0 0 20px rgba(59, 130, 246, 0.25);
+
+    --bg-input: rgba(30, 41, 59, 0.8);
+    --bg-input-focus: rgba(40, 50, 70, 0.9);
+}

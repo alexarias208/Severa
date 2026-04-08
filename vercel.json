@@ -1,0 +1,31 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/personal(?:/.*)?$",
+      "dest": "/personal/index.html"
+    },
+    {
+      "src": "/trabajo(?:/.*)?$",
+      "dest": "/trabajo/index.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/personal/js/data/biblia-embed.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}

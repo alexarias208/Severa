@@ -1,0 +1,471 @@
+
+================================================================================
+PAGE 4 (layout=True)
+================================================================================
+                                                          
+                                                          
+             libro  primero    de moisés                  
+                                                          
+                     génesis                              
+                                                          
+                                                          
+                                                          
+                                                          
+            n el principio creó Dios los cielos y la tierra. Y la 1,
+                                                    2     
+      E                                                   
+            tierra estaba desordenada y vacía, y las tinieblas es-
+            taban sobre la faz del abismo, y el Espíritu de Dios
+            se movía sobre la faz de las aguas. Y dĳo Dios: Sea
+                                                  3       
+      la luz; y fue la luz. Y vio Dios que la luz era buena; y se-
+                                                  4       
+      paró Dios la luz de las tinieblas. Y llamó Dios a la luz Día,
+                                                  5       
+      y a las tinieblas llamó Noche. Y fue la tarde y la mañana un
+      día. Luego dĳo Dios: Haya expansión en medio de las aguas,
+                                                  6       
+      y separe las aguas de las aguas. E hizo Dios la expansión, y
+                                                  7       
+      separó las aguas que estaban debajo de la expansión, de las
+      aguas que estaban sobre la expansión. Y fue así. Y llamó Dios
+                                                  8       
+      a la expansión Cielos. Y fue la tarde y la mañana el día segun-
+      do. Dĳo también Dios: Júntense las aguas que están debajo
+                                                  9       
+      de los cielos en un lugar, y descúbrase lo seco. Y fue así. Y
+                                                  10      
+      llamó Dios a lo seco Tierra, y a la reunión de las aguas llamó
+      Mares. Y vio Dios que era bueno. Después dĳo Dios: Produz-
+                                                  11      
+      ca la tierra hierba verde, hierba que dé semilla; árbol de fruto
+      que dé fruto según su género, que su semilla esté en él, sobre la
+      tierra. Y fue así. Produjo, pues, la tierra hierba verde, hierba
+                                                  12      
+      que da semilla según su naturaleza, y árbol que da fruto, cuya
+      semilla está en él, según su género. Y vio Dios que era bueno.
+      Y fue la tarde y la mañana el día tercero. Dĳo luego Dios: 13, 14
+      Haya lumbreras en la expansión de los cielos para separar el
+      día de la noche; y sirvan de señales para las estaciones, para
+      días y años, y sean por lumbreras en la expansión de los cielos
+                                                  15      
+      para alumbrar sobre la tierra. Y fue así. E hizo Dios las dos
+                                                  16      
+      grandes lumbreras; la lumbrera mayor para que señorease en
+      el día, y la lumbrera menor para que señorease en la noche;
+      hizo también las estrellas. Y las puso Dios en la expansión de
+                                                  17      
+      los cielos para alumbrar sobre la tierra, y para señorear en el
+                                                  18      
+      día y en la noche, y para separar la luz de las tinieblas. Y vio
+      Dios que era bueno. Y fue la tarde y la mañana el día cuar-
+                                                  19      
+
+--- Words with positions (first 30) ---
+  x0=96 x1=141 text='libro'
+  x0=147 x1=216 text='primero'
+  x0=222 x1=243 text='de'
+  x0=249 x1=304 text='moisés'
+  x0=155 x1=244 text='génesis'
+  x0=89 x1=96 text='n'
+  x0=101 x1=109 text='el'
+  x0=114 x1=159 text='principio'
+  x0=164 x1=185 text='creó'
+  x0=190 x1=212 text='Dios'
+  x0=217 x1=231 text='los'
+  x0=236 x1=263 text='cielos'
+  x0=268 x1=274 text='y'
+  x0=279 x1=288 text='la'
+  x0=293 x1=324 text='tierra.'
+  x0=334 x1=343 text='Y'
+  x0=348 x1=357 text='la'
+  x0=364 x1=373 text='1,'
+  x0=376 x1=381 text='2'
+  x0=43 x1=86 text='E'
+  x0=89 x1=117 text='tierra'
+  x0=121 x1=154 text='estaba'
+  x0=158 x1=221 text='desordenada'
+  x0=225 x1=231 text='y'
+  x0=235 x1=264 text='vacía,'
+  x0=268 x1=275 text='y'
+  x0=279 x1=292 text='las'
+  x0=296 x1=339 text='tinieblas'
+  x0=343 x1=357 text='es-'
+  x0=89 x1=119 text='taban'
+
+================================================================================
+PAGE 5 (layout=True)
+================================================================================
+                                                          
+         1.20–2.5           Génesis                 2     
+                                                          
+         to. Dĳo Dios: Produzcan las aguas seres vivientes, y aves que
+       20                                                 
+         vuelen sobre la tierra, en la abierta expansión de los cielos. Y
+       21                                                 
+         creó Dios los grandes monstruos marinos, y todo ser viviente
+         que se mueve, que las aguas produjeron según su género, y
+         toda ave alada según su especie. Y vio Dios que era bueno. Y
+       22                                                 
+         Dios los bendĳo, diciendo: Fructificad y multiplicaos, y llenad
+         las aguas en los mares, y multiplíquense las aves en la tierra.
+     23, 24 Y fue la tarde y la mañana el día quinto. Luego dĳo Dios:
+         Produzca la tierra seres vivientes según su género, bestias y
+         serpientes y animales de la tierra según su especie. Y fue así.
+         E hizo Dios animales de la tierra según su género, y ganado
+       25                                                 
+         según su género, y todo animal que se arrastra sobre la tierra
+         según su especie. Y vio Dios que era bueno. Entonces dĳo
+       26                                                 
+         Dios: Hagamos al hombre a nuestra imagen, conforme a nues-
+         tra semejanza; y señoree en los peces del mar, en las aves de
+         los cielos, en las bestias, en toda la tierra, y en todo animal
+         que se arrastra sobre la tierra. Y creó Dios al hombre a su
+       27                                                 
+         imagen, a imagen de Dios lo creó; varón y hembra los creó. Y
+       28                                                 
+         los bendĳo Dios, y les dĳo: Fructificad y multiplicaos; llenad
+         la tierra, y sojuzgadla, y señoread en los peces del mar, en las
+         aves de los cielos, y en todas las bestias que se mueven sobre
+         la tierra. Y dĳo Dios: He aquí que os he dado toda planta
+       29                                                 
+         que da semilla, que está sobre toda la tierra, y todo árbol en
+         que hay fruto y que da semilla; os serán para comer. Y a toda
+       30                                                 
+         bestia de la tierra, y a todas las aves de los cielos, y a todo lo
+         que se arrastra sobre la tierra, en que hay vida, toda planta
+         verde les será para comer. Y fue así. Y vio Dios todo lo que
+       31                                                 
+         había hecho, y he aquí que era bueno en gran manera. Y fue
+         la tarde y la mañana el día sexto.               
+       2   Fueron, pues, acabados los cielos y la tierra, y todo el ejér-
+         cito de ellos. Y acabó Dios en el día séptimo la obra que hizo;
+       2                                                  
+         y reposó el día séptimo de toda la obra que hizo. Y bendĳo
+       3                                                  
+         Dios al día séptimo, y lo santificó, porque en él reposó de toda
+         la obra que había hecho en la creación. Éstos son los oríge-
+       4                                                  
+         nes de los cielos y de la tierra cuando fueron creados, el día
+         que Jehová Dios hizo la tierra y los cielos, y toda planta del
+       5                                                  
+         campo antes que fuese en la tierra, y toda hierba del campo
+         antes que naciese; porque Jehová Dios aún no había hecho llo-
+
+--- Words with positions (first 30) ---
+  x0=65 x1=104 text='1.20–2.5'
+  x0=204 x1=241 text='Génesis'
+  x0=374 x1=380 text='2'
+  x0=65 x1=79 text='to.'
+  x0=87 x1=109 text='Dĳo'
+  x0=112 x1=138 text='Dios:'
+  x0=142 x1=196 text='Produzcan'
+  x0=199 x1=213 text='las'
+  x0=217 x1=245 text='aguas'
+  x0=249 x1=273 text='seres'
+  x0=276 x1=324 text='vivientes,'
+  x0=328 x1=334 text='y'
+  x0=337 x1=359 text='aves'
+  x0=362 x1=380 text='que'
+  x0=50 x1=58 text='20'
+  x0=65 x1=98 text='vuelen'
+  x0=101 x1=128 text='sobre'
+  x0=132 x1=141 text='la'
+  x0=144 x1=175 text='tierra,'
+  x0=179 x1=191 text='en'
+  x0=194 x1=203 text='la'
+  x0=206 x1=242 text='abierta'
+  x0=246 x1=296 text='expansión'
+  x0=300 x1=311 text='de'
+  x0=315 x1=328 text='los'
+  x0=332 x1=362 text='cielos.'
+  x0=371 x1=380 text='Y'
+  x0=50 x1=58 text='21'
+  x0=65 x1=86 text='creó'
+  x0=90 x1=113 text='Dios'
+
+================================================================================
+PAGE 6 (layout=True)
+================================================================================
+                                                          
+      3                  Génesis             2.6–25       
+                                                          
+      ver sobre la tierra, ni había hombre para que labrase la tierra,
+      sino que subía de la tierra un vapor, el cual regaba toda la
+                                                  6       
+      faz de la tierra. Entonces Jehová Dios formó al hombre del
+                                                  7       
+      polvo de la tierra, y sopló en su nariz aliento de vida, y fue el
+      hombre un ser viviente. Y Jehová Dios plantó un huerto en
+                                                  8       
+      Edén, al oriente; y puso allí al hombre que había formado. Y
+                                                  9       
+      Jehová Dios hizo nacer de la tierra todo árbol delicioso a la
+      vista, y bueno para comer; también el árbol de vida en medio
+      del huerto, y el árbol de la ciencia del bien y del mal. Y salía
+                                                  10      
+      de Edén un río para regar el huerto, y de allí se repartía en
+      cuatro brazos. El nombre del uno era Pisón; éste es el que
+                                                  11      
+      rodea toda la tierra de Havila, donde hay oro; y el oro de
+                                                  12      
+      aquella tierra es bueno; hay allí también bedelio y ónice. El
+                                                  13      
+      nombre del segundo río es Gihón; éste es el que rodea toda la
+      tierra de Cus. Y el nombre del tercer río es Hidekel; éste es
+                                                  14      
+      el que va al oriente de Asiria. Y el cuarto río es el Éufrates.
+      Tomó, pues, Jehová Dios al hombre, y lo puso en el huerto
+                                                  15      
+      de Edén, para que lo labrara y lo guardase. Y mandó Jeho-
+                                                  16      
+      vá Dios al hombre, diciendo: De todo árbol del huerto podrás
+      comer; mas del árbol de la ciencia del bien y del mal no come-
+                                                  17      
+      rás; porque el día que de él comieres, ciertamente morirás. Y
+                                                  18      
+      dĳo Jehová Dios: No es bueno que el hombre esté solo; le haré
+      ayuda idónea para él. Jehová Dios formó, pues, de la tierra
+                                                  19      
+      toda bestia del campo, y toda ave de los cielos, y las trajo a
+      Adán para que viese cómo las había de llamar; y todo lo que
+      Adán llamóa los animales vivientes, ése es su nombre. Ypuso
+                                                  20      
+      Adán nombre a toda bestia y ave de los cielos y a todo ganado
+      del campo; mas para Adán no se halló ayuda idónea para él.
+      Entonces Jehová Dios hizo caer sueño profundo sobre Adán,
+                                                  21      
+      y mientras éste dormía, tomó una de sus costillas, y cerró la
+      carne en su lugar. Y de la costilla que Jehová Dios tomó del
+                                                  22      
+      hombre, hizo una mujer, y la trajo al hombre. Dĳo entonces
+                                                  23      
+      Adán: Esto es ahora hueso de mis huesos y carne de mi carne;
+      ésta será llamada Varona, porque del varón fue tomada. Por
+                                                  24      
+      tanto, dejará el hombre a su padre y a su madre, y se unirá a
+      su mujer, y serán una sola carne. Y estaban ambos desnudos,
+                                                  25      
+      Adán y su mujer, y no se avergonzaban.              
+
+--- Words with positions (first 30) ---
+  x0=43 x1=48 text='3'
+  x0=181 x1=219 text='Génesis'
+  x0=330 x1=357 text='2.6–25'
+  x0=43 x1=58 text='ver'
+  x0=62 x1=88 text='sobre'
+  x0=92 x1=101 text='la'
+  x0=105 x1=136 text='tierra,'
+  x0=140 x1=149 text='ni'
+  x0=153 x1=181 text='había'
+  x0=184 x1=222 text='hombre'
+  x0=226 x1=249 text='para'
+  x0=252 x1=270 text='que'
+  x0=274 x1=310 text='labrase'
+  x0=313 x1=322 text='la'
+  x0=326 x1=357 text='tierra,'
+  x0=43 x1=63 text='sino'
+  x0=68 x1=86 text='que'
+  x0=91 x1=118 text='subía'
+  x0=123 x1=134 text='de'
+  x0=139 x1=148 text='la'
+  x0=154 x1=182 text='tierra'
+  x0=187 x1=200 text='un'
+  x0=205 x1=237 text='vapor,'
+  x0=242 x1=250 text='el'
+  x0=255 x1=276 text='cual'
+  x0=281 x1=315 text='regaba'
+  x0=320 x1=343 text='toda'
+  x0=348 x1=357 text='la'
+  x0=364 x1=368 text='6'
+  x0=43 x1=57 text='faz'
+
+================================================================================
+PAGE 7 (layout=True)
+================================================================================
+                                                          
+         3.1–18             Génesis                 4     
+                                                          
+       3   Pero la serpiente era astuta, más que todos los animales
+         del campo que Jehová Dios había hecho; la cual dĳo a la mu-
+         jer: ¿Conque Dios os ha dicho: No comáis de todo árbol del
+         huerto? Y la mujer respondió a la serpiente: Del fruto de los
+       2                                                  
+         árboles del huerto podemos comer; pero del fruto del árbol
+       3                                                  
+         que está en medio del huerto dĳo Dios: No comeréis de él, ni le
+         tocaréis, para que no muráis. Entonces la serpiente dĳo a la
+       4                                                  
+         mujer: No moriréis; sino que sabe Dios que el día que comáis
+       5                                                  
+         de él, serán abiertos vuestros ojos, y seréis como Dios, sabien-
+         do el bien y el mal. Y vio la mujer que el árbol era bueno
+       6                                                  
+         para comer, y que era agradable a los ojos, y árbol codiciable
+         para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio
+         también a su marido, el cual comió así como ella. Entonces
+       7                                                  
+         fueron abiertos los ojos de ambos, y conocieron que estaban
+         desnudos; entonces cosieron hojas de higuera, y se hicieron de-
+         lantales. Y oyeron la voz de Jehová Dios que se paseaba en el
+       8                                                  
+         huerto, al aire del día; y el hombre y su mujer se escondieron
+         de la presencia de Jehová Dios entre los árboles del huerto.
+         Mas Jehová Dios llamó al hombre, y le dĳo: ¿Dónde estás tú?
+       9                                                  
+         Y él respondió: Oí tu voz en el huerto, y tuve miedo, porque
+       10                                                 
+         estaba desnudo; y me escondí. Y Dios le dĳo: ¿Quién te en-
+       11                                                 
+         señó que estabas desnudo? ¿Has comido del árbol de que yo
+         te mandé no comieses? Y el hombre respondió: La mujer que
+       12                                                 
+         me diste por compañera me dio del árbol, y yo comí. Enton-
+       13                                                 
+         ces Jehová Dios dĳo a la mujer: ¿Qué es lo que has hecho? Y
+         dĳo la mujer: La serpiente me engañó, y comí. Y Jehová Dios
+       14                                                 
+         dĳo a la serpiente: Por cuanto esto hiciste, maldita serás entre
+         todas las bestias y entre todos los animales del campo; sobre
+         tu pecho andarás, y polvo comerás todos los días de tu vida.
+         Y pondré enemistad entre ti y la mujer, y entre tu simiente
+       15                                                 
+         y la simiente suya; ésta te herirá en la cabeza, y tú le herirás
+         en el calcañar. A la mujer dĳo: Multiplicaré en gran manera
+       16                                                 
+         los dolores en tus preñeces; con dolor darás a luz los hĳos; y
+         tu deseo será para tu marido, y él se enseñoreará de ti. Y al
+       17                                                 
+         hombre dĳo: Por cuanto obedeciste a la voz de tu mujer, y
+         comiste del árbol de que te mandé diciendo: No comerás de
+         él; maldita será la tierra por tu causa; con dolor comerás de
+         ella todos los días de tu vida. Espinos y cardos te produci-
+       18                                                 
+
+--- Words with positions (first 30) ---
+  x0=65 x1=93 text='3.1–18'
+  x0=204 x1=241 text='Génesis'
+  x0=374 x1=380 text='4'
+  x0=51 x1=58 text='3'
+  x0=80 x1=103 text='Pero'
+  x0=109 x1=118 text='la'
+  x0=123 x1=168 text='serpiente'
+  x0=174 x1=189 text='era'
+  x0=194 x1=230 text='astuta,'
+  x0=235 x1=255 text='más'
+  x0=260 x1=278 text='que'
+  x0=284 x1=311 text='todos'
+  x0=317 x1=330 text='los'
+  x0=336 x1=380 text='animales'
+  x0=65 x1=80 text='del'
+  x0=84 x1=118 text='campo'
+  x0=122 x1=139 text='que'
+  x0=143 x1=178 text='Jehová'
+  x0=182 x1=205 text='Dios'
+  x0=209 x1=237 text='había'
+  x0=240 x1=273 text='hecho;'
+  x0=277 x1=286 text='la'
+  x0=290 x1=310 text='cual'
+  x0=314 x1=333 text='dĳo'
+  x0=337 x1=343 text='a'
+  x0=347 x1=356 text='la'
+  x0=360 x1=380 text='mu-'
+  x0=65 x1=82 text='jer:'
+  x0=87 x1=131 text='¿Conque'
+  x0=136 x1=158 text='Dios'
+
+================================================================================
+PAGE 8 (layout=True)
+================================================================================
+                                                          
+      5                  Génesis           3.19–4.14      
+                                                          
+      rá, y comerás plantas del campo. Con el sudor de tu rostro
+                                                  19      
+      comerás el pan hasta que vuelvas a la tierra, porque de ella
+      fuiste tomado; pues polvo eres, y al polvo volverás. Y llamó
+                                                  20      
+      Adán el nombre de su mujer, Eva, por cuanto ella era madre
+      de todos los vivientes. Y Jehová Dios hizo al hombre y a su
+                                                  21      
+      mujer túnicas de pieles, y los vistió. Y dĳo Jehová Dios: He
+                                                  22      
+      aquí el hombre es como uno de nosotros, sabiendo el bien y
+      el mal; ahora, pues, que no alargue su mano, y tome también
+      del árbol de la vida, y coma, y viva para siempre. Y lo sacó
+                                                  23      
+      Jehová del huerto del Edén, para que labrase la tierra de que
+      fue tomado. Echó, pues, fuera al hombre, y puso al oriente
+                                                  24      
+      del huerto de Edén querubines, y una espada encendida que
+      se revolvía por todos lados, para guardar el camino del árbol
+      de la vida.                                         
+        Conoció Adán a su mujer Eva, la cual concibió y dio a luz 4
+      a Caín, y dĳo: Por voluntad de Jehová he adquirido varón.
+      Después dio a luz a su hermano Abel. Y Abel fue pastor de
+                                                  2       
+      ovejas, y Caín fue labrador de la tierra. Y aconteció andando
+                                                  3       
+      el tiempo, que Caín trajo del fruto de la tierra una ofrenda
+      a Jehová. Y Abel trajo también de los primogénitos de sus
+                                                  4       
+      ovejas, de lo más gordo de ellas. Y miró Jehová con agrado a
+      Abel y a su ofrenda; pero no miró con agrado a Caín y a la
+                                                  5       
+      ofrenda suya. Y se ensañó Caín en gran manera, y decayó su
+      semblante. Entonces Jehová dĳo a Caín: ¿Por qué te has en-
+                                                  6       
+      sañado, y por qué ha decaído tu semblante? Si bien hicieres,
+                                                  7       
+      ¿no serás enaltecido? y si no hicieres bien, el pecado está a la
+      puerta; con todo esto, a ti será su deseo, y tú te enseñorearás
+      de él. Y dĳo Caín a su hermano Abel: Salgamos al campo. Y
+                                                  8       
+      acontecióqueestandoellosenelcampo,Caínselevantócontra
+      su hermano Abel, y lo mató. Y Jehová dĳo a Caín: ¿Dónde
+                                                  9       
+      está Abel tu hermano? Y él respondió: No sé. ¿Soy yo acaso
+      guarda de mi hermano? Y él le dĳo: ¿Qué has hecho? La voz
+                                                  10      
+      de la sangre de tu hermano clama a mí desde la tierra. Aho-
+                                                  11      
+      ra, pues, maldito seas tú de la tierra, que abrió su boca para
+      recibir de tu mano la sangre de tu hermano. Cuando labres
+                                                  12      
+      la tierra, no te volverá a dar su fuerza; errante y extranjero
+      serás en la tierra. Y dĳo Caín a Jehová: Grande es mi castigo
+                                                  13      
+      para ser soportado. He aquí me echas hoy de la tierra, y de
+                                                  14      
+
+--- Words with positions (first 30) ---
+  x0=43 x1=48 text='5'
+  x0=181 x1=219 text='Génesis'
+  x0=314 x1=357 text='3.19–4.14'
+  x0=43 x1=56 text='rá,'
+  x0=61 x1=67 text='y'
+  x0=71 x1=112 text='comerás'
+  x0=117 x1=154 text='plantas'
+  x0=158 x1=173 text='del'
+  x0=178 x1=215 text='campo.'
+  x0=224 x1=245 text='Con'
+  x0=250 x1=258 text='el'
+  x0=263 x1=291 text='sudor'
+  x0=295 x1=307 text='de'
+  x0=312 x1=323 text='tu'
+  x0=327 x1=357 text='rostro'
+  x0=364 x1=373 text='19'
+  x0=43 x1=84 text='comerás'
+  x0=88 x1=97 text='el'
+  x0=102 x1=121 text='pan'
+  x0=125 x1=153 text='hasta'
+  x0=158 x1=176 text='que'
+  x0=180 x1=218 text='vuelvas'
+  x0=222 x1=228 text='a'
+  x0=233 x1=242 text='la'
+  x0=247 x1=278 text='tierra,'
+  x0=283 x1=318 text='porque'
+  x0=323 x1=335 text='de'
+  x0=340 x1=357 text='ella'
+  x0=43 x1=70 text='fuiste'
+  x0=75 x1=116 text='tomado;'

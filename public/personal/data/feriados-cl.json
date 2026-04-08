@@ -1,0 +1,631 @@
+{
+  "version": 1,
+  "nota": "Lista estática generada con personal/js/utils/feriados.js (FeriadosCL.feriadosYear). La app usa el .js en tiempo real; este JSON sirve de respaldo/deploy.",
+  "generado": "2026-04-02",
+  "items": [
+    {
+      "fecha": "2024-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2024-03-29",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2024-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2024-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2024-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2024-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2024-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2024-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2024-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2024-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2024-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2024-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2024-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2025-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2025-04-18",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2025-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2025-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2025-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2025-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2025-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2025-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2025-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2025-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2025-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2025-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2025-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2026-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2026-04-03",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2026-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2026-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2026-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2026-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2026-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2026-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2026-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2026-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2026-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2026-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2026-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2027-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2027-03-26",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2027-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2027-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2027-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2027-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2027-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2027-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2027-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2027-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2027-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2027-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2027-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2028-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2028-04-14",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2028-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2028-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2028-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2028-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2028-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2028-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2028-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2028-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2028-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2028-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2028-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2029-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2029-03-30",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2029-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2029-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2029-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2029-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2029-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2029-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2029-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2029-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2029-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2029-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2029-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2030-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2030-04-19",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2030-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2030-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2030-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2030-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2030-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2030-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2030-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2030-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2030-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2030-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2030-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2031-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2031-04-11",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2031-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2031-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2031-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2031-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2031-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2031-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2031-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2031-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2031-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2031-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2031-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2032-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2032-03-26",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2032-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2032-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2032-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2032-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2032-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2032-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2032-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2032-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2032-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2032-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2032-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2033-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2033-04-15",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2033-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2033-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2033-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2033-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2033-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2033-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2033-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2033-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2033-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2033-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2033-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2034-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2034-04-07",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2034-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2034-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2034-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2034-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2034-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2034-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2034-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2034-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2034-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2034-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2034-12-25",
+      "nombre": "Navidad"
+    },
+    {
+      "fecha": "2035-01-01",
+      "nombre": "Año Nuevo"
+    },
+    {
+      "fecha": "2035-03-23",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2035-05-01",
+      "nombre": "Día del Trabajo"
+    },
+    {
+      "fecha": "2035-05-21",
+      "nombre": "Día de las Glorias Navales"
+    },
+    {
+      "fecha": "2035-07-16",
+      "nombre": "Virgen del Carmen"
+    },
+    {
+      "fecha": "2035-08-15",
+      "nombre": "Asunción de la Virgen"
+    },
+    {
+      "fecha": "2035-09-18",
+      "nombre": "Fiestas Patrias"
+    },
+    {
+      "fecha": "2035-09-19",
+      "nombre": "Día de las Glorias del Ejército"
+    },
+    {
+      "fecha": "2035-10-12",
+      "nombre": "Encuentro de Dos Mundos"
+    },
+    {
+      "fecha": "2035-10-31",
+      "nombre": "Día de las Iglesias Evangélicas y Protestantes"
+    },
+    {
+      "fecha": "2035-11-01",
+      "nombre": "Día de Todos los Santos"
+    },
+    {
+      "fecha": "2035-12-08",
+      "nombre": "Inmaculada Concepción"
+    },
+    {
+      "fecha": "2035-12-25",
+      "nombre": "Navidad"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "rutinas": [
+    {
+      "id": "principiante-suave",
+      "nivel": "principiante",
+      "nombre": "Principiante — Rutina suave",
+      "descripcion": "Pocos ejercicios, sin material. Ideal para empezar.",
+      "duracionAprox": "20-25 min",
+      "ejercicios": [
+        { "nombre": "Sentadilla con peso corporal", "parte": "quads", "tipo": "bodyweight", "series": 2, "reps": 10, "notas": "Suave, rodillas alineadas" },
+        { "nombre": "Push up tronco elevado", "parte": "chest", "tipo": "bodyweight", "series": 2, "reps": 8, "notas": "Versión más fácil" },
+        { "nombre": "Puente de glúteo", "parte": "glutes", "tipo": "bodyweight", "series": 2, "reps": 12, "notas": "" },
+        { "nombre": "Plancha", "parte": "abs", "tipo": "bodyweight", "series": 2, "reps": 1, "notas": "15-30 s" },
+        { "nombre": "Caminata", "parte": "cardio", "tipo": "cardio", "tiempo": 5, "notas": "5 min a ritmo suave" }
+      ]
+    },
+    {
+      "id": "principiante-completa",
+      "nivel": "principiante",
+      "nombre": "Principiante — Rutina completa",
+      "descripcion": "Cuerpo completo, intensidad moderada.",
+      "duracionAprox": "30-40 min",
+      "ejercicios": [
+        { "nombre": "Sentadilla con peso corporal", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Estocada hacia atrás", "parte": "quads", "tipo": "bodyweight", "series": 2, "reps": 8, "notas": "Cada pierna" },
+        { "nombre": "Push up tronco elevado", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "" },
+        { "nombre": "Remo con banda", "parte": "back", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "" },
+        { "nombre": "Crunch", "parte": "abs", "tipo": "bodyweight", "series": 2, "reps": 12, "notas": "" },
+        { "nombre": "Plancha", "parte": "abs", "tipo": "bodyweight", "series": 2, "reps": 1, "notas": "20-40 s" }
+      ]
+    },
+    {
+      "id": "tren-inferior-guia",
+      "nivel": "intermedio",
+      "nombre": "Tren inferior (Guía casa)",
+      "descripcion": "Piernas y glúteos sin material o con banda/silla. Guía UDP.",
+      "duracionAprox": "30-45 min",
+      "ejercicios": [
+        { "nombre": "Sentadilla con peso corporal", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "Rodillas alineadas con punta de pies" },
+        { "nombre": "Salto sentadilla", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "Amortiguar al caer" },
+        { "nombre": "Estocada hacia atrás", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "90° en piernas" },
+        { "nombre": "Estocada con salto", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 8, "notas": "" },
+        { "nombre": "Estocada búlgara", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "Puedes usar silla para pie trasero" },
+        { "nombre": "Puente de glúteo", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "Empujar con talón" },
+        { "nombre": "Hip thrust", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "Banca o silla" },
+        { "nombre": "Hip thrust a un pie", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "" },
+        { "nombre": "Peso muerto a una pierna", "parte": "hamstrings", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "Botellas o peso casero opcional" },
+        { "nombre": "Patada de glúteo", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" },
+        { "nombre": "Pistols squat con banco", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 8, "notas": "Versión con apoyo" },
+        { "nombre": "Monster walks", "parte": "glutes", "tipo": "bodyweight", "series": 2, "reps": 20, "notas": "Con o sin banda" },
+        { "nombre": "Abducción con banda elástica", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" },
+        { "nombre": "Peso muerto con banda elástica", "parte": "back", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Patada de glúteo con banda", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Abducción de pie con banda", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" }
+      ]
+    },
+    {
+      "id": "tren-superior-guia",
+      "nivel": "intermedio",
+      "nombre": "Tren superior (Guía casa)",
+      "descripcion": "Pecho, hombros, brazos y espalda. Sin material o con banda.",
+      "duracionAprox": "25-35 min",
+      "ejercicios": [
+        { "nombre": "Push up tradicional", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "Codos bajo hombros" },
+        { "nombre": "Push up con impulso", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "" },
+        { "nombre": "Push up piernas elevadas", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "Más intenso" },
+        { "nombre": "Push up tronco elevado", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "Versión más fácil" },
+        { "nombre": "Push up diamante", "parte": "triceps", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "Manos en diamante" },
+        { "nombre": "Vuelo lateral", "parte": "shoulders", "tipo": "strength", "series": 3, "reps": 15, "notas": "Botellas o peso casero" },
+        { "nombre": "Fondos de tríceps", "parte": "triceps", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "Silla o banco" },
+        { "nombre": "Press de hombro con banda", "parte": "shoulders", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Remo con banda", "parte": "back", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Jalón al pecho con banda", "parte": "back", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "90° codos" }
+      ]
+    },
+    {
+      "id": "zona-media-guia",
+      "nivel": "intermedio",
+      "nombre": "Zona media (Guía casa)",
+      "descripcion": "Core y abdominales.",
+      "duracionAprox": "15-20 min",
+      "ejercicios": [
+        { "nombre": "Bicicleta", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 20, "notas": "Crunch bicicleta" },
+        { "nombre": "Crunch", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" },
+        { "nombre": "Plancha", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 1, "notas": "Mantener 30-60 s" },
+        { "nombre": "Plancha lateral", "parte": "abs", "tipo": "bodyweight", "series": 2, "reps": 1, "notas": "30 s por lado" },
+        { "nombre": "Skipping abdominal", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 20, "notas": "" },
+        { "nombre": "Barco", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "V-sit o boat hold" }
+      ]
+    },
+    {
+      "id": "rutina-completa-casa",
+      "nivel": "intermedio",
+      "nombre": "Rutina completa en casa",
+      "descripcion": "3-5 tren inferior + 3-5 tren superior + 1-2 zona media. Según indicaciones de la guía.",
+      "duracionAprox": "45-60 min",
+      "ejercicios": [
+        { "nombre": "Sentadilla con peso corporal", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" },
+        { "nombre": "Hip thrust", "parte": "glutes", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Estocada hacia atrás", "parte": "quads", "tipo": "bodyweight", "series": 3, "reps": 10, "notas": "" },
+        { "nombre": "Push up tradicional", "parte": "chest", "tipo": "bodyweight", "series": 3, "reps": 15, "notas": "" },
+        { "nombre": "Remo con banda", "parte": "back", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Fondos de tríceps", "parte": "triceps", "tipo": "bodyweight", "series": 3, "reps": 12, "notas": "" },
+        { "nombre": "Plancha", "parte": "abs", "tipo": "bodyweight", "series": 3, "reps": 1, "notas": "30-60 s" },
+        { "nombre": "Crunch", "parte": "abs", "tipo": "bodyweight", "series": 2, "reps": 15, "notas": "" }
+      ]
+    },
+    {
+      "id": "estiramientos-guia",
+      "nivel": "todos",
+      "nombre": "Estiramientos (Guía casa)",
+      "descripcion": "10-15 min post ejercicio. Tren inferior y superior.",
+      "duracionAprox": "10-15 min",
+      "ejercicios": [
+        { "nombre": "Estiramiento aductores", "parte": "quads", "tipo": "flexibility", "tiempo": 1, "notas": "Plantas de pies juntas" },
+        { "nombre": "Estiramiento isquiotibiales", "parte": "hamstrings", "tipo": "flexibility", "tiempo": 1, "notas": "Pierna en silla/mesa" },
+        { "nombre": "Estiramiento glúteos", "parte": "glutes", "tipo": "flexibility", "tiempo": 1, "notas": "Sentado, cruzar pierna" },
+        { "nombre": "Estiramiento cuádriceps", "parte": "quads", "tipo": "flexibility", "tiempo": 1, "notas": "Talón al glúteo" },
+        { "nombre": "Estiramiento gemelos", "parte": "calves", "tipo": "flexibility", "tiempo": 1, "notas": "Manos en pared" },
+        { "nombre": "Estiramiento pectoral", "parte": "chest", "tipo": "flexibility", "tiempo": 1, "notas": "Antebrazo en marco" },
+        { "nombre": "Estiramiento deltoides", "parte": "shoulders", "tipo": "flexibility", "tiempo": 1, "notas": "Brazo sobre cabeza" },
+        { "nombre": "Estiramiento dorsal", "parte": "back", "tipo": "flexibility", "tiempo": 1, "notas": "Flexión lateral" },
+        { "nombre": "Estiramiento tríceps", "parte": "triceps", "tipo": "flexibility", "tiempo": 1, "notas": "Mano al hombro" }
+      ]
+    }
+  ]
+}

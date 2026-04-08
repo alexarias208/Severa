@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" aria-hidden="true">
+  <!-- Círculo partido: Persona/Trabajo, juntos pero no unidos -->
+  <circle cx="24" cy="24" r="22" fill="#3d3d3d"/>
+  <line x1="36" y1="12" x2="12" y2="36" stroke="#6b6b6b" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

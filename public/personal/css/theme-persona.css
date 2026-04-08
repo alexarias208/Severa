@@ -1,0 +1,166 @@
+/* ============================================
+   THEME PERSONA (Severa - Outies)
+   Paleta cálida coherente, contraste WCAG AA
+   ============================================ */
+
+/* Paleta cálida solo en pantalla de selección de perfil (#auth-screen.theme-persona). El resto de la app usa data-theme (dark/light/pink/blue). */
+#auth-screen.theme-persona {
+    /* Fondos tonos tierra - coherentes */
+    --bg-body: #e5e0d8;
+    --bg-main: #ebe7e0;
+    --bg-card: rgba(252, 250, 245, 0.95);
+    --bg-sidebar: rgba(245, 241, 234, 0.98);
+    --bg-header: rgba(245, 241, 234, 0.98);
+
+    --glass-bg: rgba(252, 250, 245, 0.85);
+    --glass-bg-strong: rgba(252, 250, 245, 0.95);
+    --glass-border: 1px solid rgba(90, 80, 70, 0.15);
+    --glass-shadow: 0 4px 20px rgba(60, 50, 40, 0.08);
+
+    --gradient-primary: linear-gradient(135deg, #5a7a5a 0%, #4a6a4a 100%);
+    --gradient-auth-bg: linear-gradient(180deg, #e5e0d8 0%, #d8d2c8 50%, #cfc9bd 100%);
+
+    --accent-blue: #4a6a7a;
+    --accent-purple: #6a5a7a;
+    --accent-green: #4a7a5a;
+    --accent-teal: #4a7a6a;
+    --accent-pink: #b85450;
+    --accent-orange: #c9a227;
+    --accent-yellow: #c9a227;
+
+    --state-success: #2d7a3e;
+    --state-success-bg: rgba(45, 122, 62, 0.12);
+    --state-warning: #b8860b;
+    --state-warning-bg: rgba(184, 134, 11, 0.12);
+    --state-error: #a03d3a;
+    --state-error-bg: rgba(160, 61, 58, 0.12);
+    --state-info: #4a6a7a;
+    --state-info-bg: rgba(74, 106, 122, 0.12);
+
+    --text-primary: #1e1c1a;
+    --text-secondary: #4a4540;
+    --text-muted: #6b6560;
+    --text-white: #fcfaf5;
+    --text-on-gradient: #ffffff;
+    --text-accent: #4a6a7a;
+
+    --border-color: rgba(90, 80, 70, 0.18);
+    --border-light: rgba(90, 80, 70, 0.08);
+
+    --shadow-sm: 0 1px 3px rgba(60, 50, 40, 0.08);
+    --shadow-md: 0 4px 16px rgba(60, 50, 40, 0.1);
+    --shadow-lg: 0 8px 28px rgba(60, 50, 40, 0.12);
+    --shadow-xl: 0 16px 40px rgba(60, 50, 40, 0.14);
+    --shadow-hover: 0 6px 24px rgba(74, 106, 122, 0.15);
+    --shadow-glow: 0 0 20px rgba(74, 106, 122, 0.12);
+
+    --bg-input: rgba(252, 250, 245, 0.98);
+    --bg-input-focus: #ffffff;
+
+    --cal-urgent: #a03d3a;
+    --cal-habit: #2d7a3e;
+    --cal-finance: #4a6a7a;
+    --cal-pending: #b8860b;
+    --cal-completed: #2d7a3e;
+    --cal-cycle: #b85450;
+    --cal-study: #6a5a7a;
+    --cal-exercise: #c9a227;
+}
+
+#auth-screen.theme-persona {
+    background: var(--bg-body);
+    color: var(--text-primary);
+}
+
+#auth-screen.theme-persona .select-profile-card,
+#auth-screen.theme-persona .auth-card {
+    background: var(--bg-card);
+    border-radius: 14px;
+    box-shadow: var(--glass-shadow);
+    border: var(--glass-border);
+    color: var(--text-primary);
+}
+
+#auth-screen.theme-persona .profile-option {
+    min-height: 56px;
+    padding: 12px 24px;
+    border-radius: 10px;
+    background: rgba(74, 122, 90, 0.1);
+    border: 1px solid rgba(74, 122, 90, 0.28);
+    color: var(--text-primary);
+    transition: all 0.2s ease;
+}
+
+#auth-screen.theme-persona .profile-option:hover,
+#auth-screen.theme-persona .profile-option:focus {
+    background: rgba(74, 122, 90, 0.18);
+    box-shadow: var(--shadow-sm);
+}
+
+body.theme-persona .profile-option--active {
+    background: rgba(201, 162, 39, 0.15);
+    border-color: #b8860b;
+}
+
+#auth-screen.theme-persona .persona-logo-spiral {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+
+#auth-screen.theme-persona .persona-logo-spiral svg {
+    width: 100%;
+    height: 100%;
+    animation: persona-spiral-fade 1.2s ease-out;
+}
+
+@keyframes persona-spiral-fade {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+#auth-screen.theme-persona .btn-persona-cta {
+    min-height: 44px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #a03d3a 0%, #8a3230 100%);
+    color: #fff;
+    border: none;
+    box-shadow: var(--shadow-md);
+    font-weight: 600;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+#auth-screen.theme-persona .btn-persona-cta:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+    #auth-screen.theme-persona .select-profile-layout {
+        display: grid;
+        grid-template-columns: 38.2% 61.8%;
+        min-height: 80vh;
+        align-items: center;
+        gap: 2rem;
+    }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+    #auth-screen.theme-persona .select-profile-card {
+        padding: 1.5rem;
+    }
+
+    #auth-screen.theme-persona .select-profile-grid {
+        gap: 1rem;
+    }
+
+    #auth-screen.theme-persona .profile-option {
+        min-height: 64px;
+        padding: 16px;
+        font-size: 1rem;
+    }
+}
